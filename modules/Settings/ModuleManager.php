@@ -45,7 +45,7 @@ $languageStrings = array(
 	'LBL_EXTENSION_STORE' => '擴展應用市集',
 	'LBL_ACCEPT_WITH_THE_DISCLAIMER' => '我將接受免責聲明，請繼續',
 	'LBL_INSTALL_FROM_ZIP' => '從 ZIP壓縮檔安裝',
-	'LBL_DELETE_EXIST_DIRECTORY' => '請刪除已存在的模組目錄以便繼續模組匯入'
+	'LBL_DELETE_EXIST_DIRECTORY' => '請刪除已存在的模組目錄以便繼續模組匯入',
 
 	'LBL_UPDATE_MODULE_FROM_FILE' => '從檔案更新模組',
 	'LBL_UPDATED_MODULE' => '模組更新成功。',
