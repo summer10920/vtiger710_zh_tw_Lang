@@ -1,0 +1,107 @@
+<?php
+/*+***********************************************************************************
+ * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+ * ("License"); You may not use this file except in compliance with the License
+ * The Original Code is:  vtiger CRM Open Source
+ * The Initial Developer of the Original Code is vtiger. 
+ * Portions created by vtiger are Copyright (C) vtiger.
+ * All Rights Reserved.
+ *************************************************************************************/
+$languageStrings = array(
+	'LBL_IMPORT_STEP_1' => '步驟一',
+	'LBL_IMPORT_STEP_1_DESCRIPTION' => '選擇文件',
+	'LBL_IMPORT_SUPPORTED_FILE_TYPES' => '	支援的文件類型：*.CSV 或 *.VCF',
+	'LBL_IMPORT_STEP_2' => '步驟二',
+	'LBL_IMPORT_STEP_2_DESCRIPTION' => '指定格式',
+	'LBL_FILE_TYPE' => '文件類型',
+	'LBL_CHARACTER_ENCODING' => '字元編碼',
+	'LBL_DELIMITER' => '分隔符',
+	'LBL_HAS_HEADER' => '有標題行',
+	'LBL_IMPORT_STEP_3' => '步驟三',
+	'LBL_IMPORT_STEP_3_DESCRIPTION' => '重複記錄處理',
+	'LBL_IMPORT_STEP_3_DESCRIPTION_DETAILED' => '選擇此項目啟用，並套用重複的項目合併規則',
+	'LBL_SPECIFY_MERGE_TYPE' => '選擇重複記錄的處理方式',
+	'LBL_SELECT_MERGE_FIELDS' => '選擇符合的欄位進行重複記錄查找',
+	'LBL_AVAILABLE_FIELDS' => '可用欄位',
+	'LBL_SELECTED_FIELDS' => '符合欄位於',
+	'LBL_NEXT_BUTTON_LABEL' => '下一步',
+	'LBL_IMPORT_STEP_4' => '步驟四',
+	'LBL_IMPORT_STEP_4_DESCRIPTION' => '映射列項到模組欄位',
+	'LBL_FILE_COLUMN_HEADER' => '標題',
+	'LBL_ROW_1' => '第一行',
+	'LBL_CRM_FIELDS' => 'CRM欄位',
+	'LBL_DEFAULT_VALUE' => '預設值',
+	'LBL_SAVE_AS_CUSTOM_MAPPING' => '另存為自訂映射',
+	'LBL_IMPORT_BUTTON_LABEL' => '匯入',
+	'LBL_RESULT' => '結果',
+	'LBL_TOTAL_RECORDS_IMPORTED' => '記錄匯入成功',
+	'LBL_NUMBER_OF_RECORDS_CREATED' => '新建的記錄',
+	'LBL_NUMBER_OF_RECORDS_UPDATED' => '覆蓋的記錄',
+	'LBL_NUMBER_OF_RECORDS_SKIPPED' => '略過的記錄',
+	'LBL_NUMBER_OF_RECORDS_MERGED' => '合併的記錄',  
+	'LBL_TOTAL_RECORDS_FAILED' => '記錄匯入失敗',
+	'LBL_IMPORT_MORE' => '匯入更多',
+	'LBL_VIEW_LAST_IMPORTED_RECORDS' => '最近匯入的記錄',
+	'LBL_UNDO_LAST_IMPORT' => '取消最後的匯入',
+	'LBL_FINISH_BUTTON_LABEL' => '完成',
+	'LBL_UNDO_RESULT' => '取消匯入結果',
+	'LBL_TOTAL_RECORDS' => '總記錄數',
+	'LBL_NUMBER_OF_RECORDS_DELETED' => '刪除的記錄數',
+	'LBL_OK_BUTTON_LABEL' => '好的',
+	'LBL_IMPORT_SCHEDULED' => '匯入定期排程',
+	'LBL_RUNNING' => '正在運行',
+	'LBL_CANCEL_IMPORT' => '取消匯入',
+	'LBL_ERROR' => '錯誤',
+	'LBL_CLEAR_DATA' => '清除數據',
+	'ERR_UNIMPORTED_RECORDS_EXIST' => '無法在此批次操作匯入更多數據，請另做新的匯入。',
+	'ERR_IMPORT_INTERRUPTED' => '當前的匯入已中斷。請稍後再試。',
+	'ERR_FAILED_TO_LOCK_MODULE' => '鎖定的匯入模組失敗，請稍後再試。',
+	'LBL_SELECT_SAVED_MAPPING' => '選擇已儲存的映射',
+	'LBL_IMPORT_ERROR_LARGE_FILE' => '大型文件匯入錯誤',
+	'LBL_FILE_UPLOAD_FAILED' => '文件上傳失敗',
+	'LBL_IMPORT_CHANGE_UPLOAD_SIZE' => '更改匯入的上傳文件大小',
+	'LBL_IMPORT_DIRECTORY_NOT_WRITABLE' => '匯入的目錄沒有寫入權限',
+	'LBL_IMPORT_FILE_COPY_FAILED' => '匯入文件複製失敗',
+	'LBL_INVALID_FILE' => '無效的文件',
+	'LBL_NO_ROWS_FOUND' => '找不到此行項',
+	'LBL_SCHEDULED_IMPORT_DETAILS' => '你的匯入排程已啟動，將在15分鐘內開始執行。匯入完成後您將收到一封電子郵件。
+	<br>請確認寄件伺服器和您的電子郵件地址被設定為"接收電子郵件通知"',
+	'LBL_DETAILS' => '詳細內容',
+	'skipped' => '跳過的記錄',
+	'failed' => '失敗的記錄',
+	
+        'LBL_IMPORT_LINEITEMS_CURRENCY'=> '幣別(對於項目欄位)',
+        'LBL_USE_SAVED_MAPS'=>'使用已存在的映射',
+        'LBL_IMPORT_MAP_FIELDS'=>'映射列項到CRM欄位',
+        'LBL_UPLOAD_CSV'=>'上傳CSV文件', 
+        'LBL_UPLOAD_VCF'=>'上傳VCF文件',
+        'LBL_DUPLICATE_HANDLING'=>'重複處理',
+        'LBL_FIELD_MAPPING'=>'欄位映射',
+        'LBL_IMPORT_FROM_CSV_FILE'=>'從CSV文件匯入',
+        'LBL_SELECT_IMPORT_FILE_FORMAT'=>'您想從哪裡匯入?',
+        'LBL_CSV_FILE'=>'CSV 文件',
+        'LBL_VCF_FILE'=>'VCF 文件',
+        'LBL_GOOGLE'=>'Google',
+        'LBL_IMPORT_COMPLETED'=>'匯入完成',
+        'LBL_IMPORT_SUMMARY'=>'匯入摘要',
+        'LBL_DELETION_COMPLETED'=>'刪除已完成',
+        'LBL_TOTAL_RECORDS_SCANNED'=>'總和的掃描記錄數',
+        'LBL_SKIP_BUTTON'=>'略過',
+    'LBL_DUPLICATE_RECORD_HANDLING' => '重複記錄處理',
+    'LBL_IMPORT_FROM_VCF_FILE' => '從VCF文件匯入',
+    'LBL_SELECT_VCF_FILE' => '選擇 VCF 文件',
+    'LBL_DONE_BUTTON' => '結束',
+    'LBL_DELETION_SUMMARY' => '刪除摘要',
+
+	'LBL_SKIP_THIS_STEP' => '略過此步驟',
+	'LBL_ICS_FILE'=>'ICS 文件',
+	'LBL_UPLOAD_ICS'=>'上傳 ICS 文件',
+	'LBL_IMPORT_FROM_ICS_FILE'=>'從ICS文件匯入',
+	'LBL_SELECT_ICS_FILE' => '選擇 ICS 文件',
+);
+/*+***********************************************************************************
+ * 臺灣繁體中文語言包 - Import 匯入
+ * 版本: 7.1.0 
+ * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
+ * 更新日期: 2018-02-27
+ *************************************************************************************/
