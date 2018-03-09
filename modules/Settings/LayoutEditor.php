@@ -214,7 +214,7 @@ $jsLanguageStrings = array(
     'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => '此操作將導致永久刪除數據。
                                                  當刪除欄位時，欄位中存儲的值也將被刪除，並且無法恢覆。
                                                  如果您不確定並希望將來能夠查看此數據，則可以將該欄位標記為非活動狀態，而不是刪除該欄位。非活動欄位可以在以後任何時間重新激活啟用。
-                                                 您仍然確定要刪除此欄位嗎？'
+                                                 您仍然確定要刪除此欄位嗎？',
     'JS_FIELD_DELETE_CONFIRMATION' => '刪除 - 我不再需要欄位中的數據。',
 	'JS_STATUS_CHANGED_SUCCESSFULLY' => '狀態更改成功',
     'JS_FIELD_CAN_EITHER_BE_HEADER_OR_SUMMARY_ENABLED' => '欄位可以是首項欄位或關鍵欄位',
