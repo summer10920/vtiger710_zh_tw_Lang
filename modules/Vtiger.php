@@ -57,7 +57,7 @@ $languageStrings = array(
 	'LBL_SELECT' => '選擇',	
 	'LBL_CLEAR' => '清除',	
 	'LBL_YES' => '是',	
-	'LBL_NO' => '否',
+	'LBL_NO' => '沒有',
 	'LBL_SHOW_COMPLETE_DETAILS' => '完整細節',
 	'LBL_MINILIST_FIELDS_ARE_NOT_AVAILABLE_FOR_YOU' => '抱歉！ 多重欄位不適合於您',
 	'LBL_MASS_EDITING' => '全域編輯',
@@ -71,7 +71,7 @@ $languageStrings = array(
 	//SEND EMAIL translations
 	'LBL_GO_TO_FULL_FORM' => '切換為完整編輯',
 	'LBL_SEND_SMS' => '發送 SMS',
-	'LBL_FOUND' => '找到',
+	'LBL_FOUND' => '被找到',
 	'LBL_CLICK_ADD' => '點擊新增',
 	'LBL_ADD_MORE_FIELDS' => '新增更多欄位',
 	'LBL_ADD_NOTE' => '新增文件',
@@ -415,7 +415,7 @@ $languageStrings = array(
 	'LBL_CHOOSE_FILTER_CONDITIONS' => '選擇篩選條件',
 	//'LBL_ADD_CONDITION' => '新增條件',
 	'LBL_SET_AS_DEFAULT' => '設為預設',	
-	'LBL_LIST_IN_METRICS' => '在首頁關鍵指標中顯示',	
+	'LBL_LIST_IN_METRICS' => '在首頁的關鍵指標中顯示',	
 	'LBL_SET_AS_PUBLIC' => '設為公開',	
 	//'LBL_AND' => '和', 
 	//'LBL_OR' => '或',
@@ -613,7 +613,7 @@ $languageStrings = array(
 	'Transportation' => '運輸',
 	'Utilities'=>'公用事業',	
 
-	'Contact Name' => '聯絡人姓名',
+	'Contact Name' => '聯絡人',
 	'Conversion Rate' => '匯率',
 
 	'Shipping Address' => '收貨地址',
@@ -1190,7 +1190,7 @@ $languageStrings = array(
 	'LBL_IS' => 'is',
 	'LBL_CREATION' => '建立',
 	'LBL_UPLOAD' => '上傳',
-	'LBL_ATTACH_FILES' => '附加文件',
+	'LBL_ATTACH_FILES' => '附加檔案',
 	'LBL_KEY_FIELDS' => "關鍵欄位",
 	'LBL_ADD_TODO' => '新增任務',
 
@@ -1376,6 +1376,11 @@ $languageStrings = array(
 	'LBL_RECENT_UPDATES' => '最近更新',
 	'LBL_VIEW_UPDATES_IN_DETAIL' => '了解更多 ...',
 	'LBL_DEFAULT_DASHBOARD_TOOLTIP'=>'重新排序為第一個標籤作為此儀表板的默認設置！',
+	
+	
+	// 7.1.0 loss-fixed by vTigerCRMtoTaiwan
+	'starred' => '追蹤',
+	'Relation' => '關聯模組',
 );
 
 $jsLanguageStrings = array(
@@ -1925,10 +1930,12 @@ $jsLanguageStrings = array(
 	'JS_SET_DEFAULT_TAB' => '被設置為您的預設表板',
 	'JS_PASSWORD_MISMATCH_ERROR' => '請重新輸入密碼。 "新密碼"和"確認密碼"不相同。',
 	'LBL_LIST_DELETE_CONFIRMATION' => '您確定要刪除嗎？',
+	
+	
 );
 /*+***********************************************************************************
  * 臺灣繁體中文語言包 - Vtiger 系統主體
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-07
+ * 更新日期: 2018-03-13
  *************************************************************************************/
