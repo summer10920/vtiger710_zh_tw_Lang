@@ -1225,8 +1225,8 @@ $languageStrings = array(
 	'LBL_PREVIEW' => '預覽',
 	'LBL_UNLINKED' => '未連結',
 
-	'LBL_FOLLOW' => '追隨',
-	'LBL_UNFOLLOW' => '取消追隨',
+	'LBL_FOLLOW' => '追蹤',
+	'LBL_UNFOLLOW' => '取消追蹤',
 	'Any' => '任何',
 	'LBL_NA' => '-NA-',
 	'LBL_DISABLED' => '停用',
