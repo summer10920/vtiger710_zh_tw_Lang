@@ -27,7 +27,7 @@ $languageStrings = array(
 	'LBL_ACTIVE' => '啟動',
 	'LBL_QUICK_CREATE' => '快速建立',
 	'LBL_SUMMARY_FIELD' => '摘要顯示',
-    'LBL_KEY_FIELD_VIEW' => '關鍵欄位顯示',
+    'LBL_KEY_FIELD_VIEW' => '關鍵欄位',
 	'LBL_MASS_EDIT' => '批次編輯',
 	'LBL_DEFAULT_VALUE' => '預設值',
 	'LBL_SELECT_FIELD_TYPE' => '選擇欄位類型',
@@ -130,7 +130,7 @@ $languageStrings = array(
     'LBL_SHOW_FIELD' => '顯示欄位',
     'LBL_ENABLE_OR_DISABLE_FIELD_PROP' => '啟用/停用欄位屬性',
     'LBL_PROP_MANDATORY' => '必填',
-    'LBL_DEFAULT_VALUE_NOT_SET' => '默認值未設置',
+    'LBL_DEFAULT_VALUE_NOT_SET' => '預設值：未設置',
     'LBL_INFO' => '資訊',
     'LBL_PRODUCTFIELDDEFAULTVALUE' => ' (產品)',
     'LBL_SERVICEFIELDDEFAULTVALUE' => ' (服務)',
@@ -143,10 +143,10 @@ $languageStrings = array(
     'LBL_FILED_NAME_HELP_TEXT' => '%s 的一個參考欄位在 %s 記錄中將被添加',
     'LBL_FIELD_NAME_TEXT' => '%s 的欄位名在 %s 記錄中',
 	'LBL_COLLAPSE_BLOCK' => '折疊區塊',
-	'LBL_COLLAPSE_BLOCK_DETAIL_VIEW' => '在詳細視圖中折疊區塊',
-    'LBL_HEADER' => '頭部',
-    'LBL_DETAIL_HEADER' => '記錄首項',
-    'LBL_HEADER_FIELD' => '首項視圖',
+	'LBL_COLLAPSE_BLOCK_DETAIL_VIEW' => '在細節當中預設折疊區塊',
+    'LBL_HEADER' => '標題欄位',
+    'LBL_DETAIL_HEADER' => '標題欄位',
+    'LBL_HEADER_FIELD' => '標題欄位',
 
 	'LBL_DUPLICATE_HANDLING' => '防止重複',
 	'LBL_DUPLICATE_CHECK' => '啟用重複檢查',
@@ -191,8 +191,8 @@ $jsLanguageStrings = array(
     'JS_TAB_FIELD_DELETION'   => '刪除關係將刪除 %s 模組中的 %s 欄位並在 %s 中刪除 %s 表和標簽。確定要繼續嗎？',
     'JS_ONE_ONE_RELATION_FIELD_DELETE' => '此操作將刪除 %s 模組中的 %s 欄位也將刪除 %s 模組的 %s 欄位。確定要繼續嗎？',
 	'JS_CUSTOM_FIELDS_MAX_LIMIT' => '在 %s 塊中最多只能添加 %s 個自訂欄位',
-    'JS_DEFAULT_VALUE_NOT_SET' => '未設置默認值',
-    'JS_DEFAULT_VALUE' => '默認值',
+    'JS_DEFAULT_VALUE_NOT_SET' => '預設值：未設置',
+    'JS_DEFAULT_VALUE' => '預設值',
     'JS_SAVE_MODULE_SEQUENCE' => '儲存將更新相關模組順序',
     'JS_PRODUCTFIELDDEFAULTVALUE' => ' (產品)',
     'JS_SERVICEFIELDDEFAULTVALUE' => ' (服務)',
@@ -210,17 +210,17 @@ $jsLanguageStrings = array(
     'JS_KEY_FIELD' => '關鍵欄位',
     
     'JS_QUICK_CREATE' => '快速建立',
-    'JS_MASS_EDIT' => '批次處理',
+    'JS_MASS_EDIT' => '批次編輯',
     'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => '此操作將導致永久刪除數據。
                                                  當刪除欄位時，欄位中存儲的值也將被刪除，並且無法恢覆。
                                                  如果您不確定並希望將來能夠查看此數據，則可以將該欄位標記為非活動狀態，而不是刪除該欄位。非活動欄位可以在以後任何時間重新激活啟用。
                                                  您仍然確定要刪除此欄位嗎？',
     'JS_FIELD_DELETE_CONFIRMATION' => '刪除 - 我不再需要欄位中的數據。',
 	'JS_STATUS_CHANGED_SUCCESSFULLY' => '狀態更改成功',
-    'JS_FIELD_CAN_EITHER_BE_HEADER_OR_SUMMARY_ENABLED' => '欄位可以是首項欄位或關鍵欄位',
-    'JS_DETAIL_HEADER' => '記錄標題',
+    'JS_FIELD_CAN_EITHER_BE_HEADER_OR_SUMMARY_ENABLED' => '該欄位只能單一設定為標題欄位或是關鍵欄位',
+    'JS_DETAIL_HEADER' => '標題欄位',
     'JS_MAXIMUM_HEADER_FIELDS_ALLOWED' => '最多允許 %s 標題首項欄位',
-    'JS_NAME_FIELDS_APPEAR_IN_HEADER_BY_DEFAULT' => '默認情況下，名稱欄位出現在標題中',
+    'JS_NAME_FIELDS_APPEAR_IN_HEADER_BY_DEFAULT' => '預設情況下，此欄位已出現在標題欄位內',
     'JS_FIELD_IS_HEADER_ENABLED_FOR_VTIGER7' => '此欄位作為標題首項僅限於 vtiger 7 中啟用，它會出現在摘要視圖中',
 
 	'JS_DUPLICATE_HANDLING_SUCCESS_MESSAGE' => '預防重複性的選定欄位考量已更新成功',
@@ -231,5 +231,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - LayoutEditor 佈局編輯
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-07
+ * 更新日期: 2018-03-13
  *************************************************************************************/
