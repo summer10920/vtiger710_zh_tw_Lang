@@ -8,10 +8,10 @@
 		********************************************************************************
 		*  
 		*  Language     : Traditional Chinese
-		*  Version      : 1.0
+		*  Version      : 1.2
 		*  vtigerversion: 7.1.0
 		* 
-		* Traditional Chinese Translation Project initiated : 2018-03-08
+		* Traditional Chinese Translation Project initiated : 2018-03-15
 		* Repository : https://github.com/cerebrux/vtiger6-greek-translation
 		* Author(s): ______________________________________.
 		*  -- LokiJiang 
