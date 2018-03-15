@@ -4,7 +4,7 @@
 	<name>Traditional Chinese</name>
 	<label>臺灣繁體</label>
 	<prefix>zh_tw</prefix>
-	<version>1.0</version>
+	<version>1.2</version>
 	<encoding>UTF-8</encoding>
 	<author>LokiJiang</author>
 	<dependencies>
@@ -24,7 +24,7 @@
 		********************************************************************************
 		*  
 		*  Language     : Traditional Chinese
-		*  Version      : 1.0
+		*  Version      : 1.2
 		*  vtigerversion: 7.1.0
 		* 
 		* Traditional Chinese Translation Project initiated : 2018-03-08
