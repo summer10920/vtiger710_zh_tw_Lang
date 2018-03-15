@@ -139,5 +139,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Extension Store 擴展應用市集
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-07
+ * 更新日期: 2018-03-15
  *************************************************************************************/

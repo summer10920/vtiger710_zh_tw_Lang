@@ -219,9 +219,9 @@ $jsLanguageStrings = array(
 	'JS_STATUS_CHANGED_SUCCESSFULLY' => '狀態更改成功',
     'JS_FIELD_CAN_EITHER_BE_HEADER_OR_SUMMARY_ENABLED' => '該欄位只能單一設定為標題摘要或是重點欄位',
     'JS_DETAIL_HEADER' => '標題摘要',
-    'JS_MAXIMUM_HEADER_FIELDS_ALLOWED' => '最多允許 %s 標題首項欄位',
+    'JS_MAXIMUM_HEADER_FIELDS_ALLOWED' => '最多允許 %s 組標題摘要欄位',
     'JS_NAME_FIELDS_APPEAR_IN_HEADER_BY_DEFAULT' => '預設情況下，此欄位已出現在標題摘要內',
-    'JS_FIELD_IS_HEADER_ENABLED_FOR_VTIGER7' => '此欄位作為標題首項僅限於 vtiger 7 中啟用，它會出現在摘要視圖中',
+    'JS_FIELD_IS_HEADER_ENABLED_FOR_VTIGER7' => '此欄位作為標題摘要僅限於 vtiger 7 中啟用，它會出現在摘要視圖中',
 
 	'JS_DUPLICATE_HANDLING_SUCCESS_MESSAGE' => '預防重複性的選定欄位考量已更新成功',
 	'JS_DUPLICATE_HANDLING_FAILURE_MESSAGE' => '預防重複性的選定欄位考量失敗',
@@ -231,5 +231,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - LayoutEditor 佈局編輯
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-14
+ * 更新日期: 2018-03-15
  *************************************************************************************/

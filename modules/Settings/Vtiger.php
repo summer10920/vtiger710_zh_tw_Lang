@@ -382,6 +382,10 @@ $languageStrings = array(
     'LBL_TALLY' => 'Tally',
     'LBL_SHOPPINGCART' => '購物車',
 	'LBL_PHONE_CONFIGURATION' => '電話設定',
+
+	//Optimized by Loki in 7.1.0
+	'My Preferences' => '個人偏好設定',
+	'Calendar Settings' => '日曆設定',
 );
 
 $jsLanguageStrings = array(
@@ -421,5 +425,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Vtiger 配置
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-14
+ * 更新日期: 2018-03-15
  *************************************************************************************/
