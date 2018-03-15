@@ -14,7 +14,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '專案任務列表',
 
 	// Blocks
-	'LBL_PROJECT_TASK_INFORMATION' => '專案任務細節',
+	'LBL_PROJECT_TASK_INFORMATION' => '專案任務資訊',
 	'LBL_PROJECTS_LIST' => '專案列表',
 	'LBL_TASKS_LIST' => '任務列表',
     'LBL_MILESTONES_LIST' => '里程碑列表',
@@ -52,5 +52,5 @@ $languageStrings = array(
  * 臺灣繁體中文語言包 - Project Task 專案任務
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-05
+ * 更新日期: 2018-03-15
  *************************************************************************************/

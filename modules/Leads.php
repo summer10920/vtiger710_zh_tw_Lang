@@ -15,7 +15,7 @@ $languageStrings = array(
 	'LBL_ADD_RECORD' => '新增潛在客戶',
 
 	// Blocks
-	'LBL_LEAD_INFORMATION' => '潛在客戶細節',
+	'LBL_LEAD_INFORMATION' => '潛在客戶資訊',
 
 	//Field Labels
 	'Lead No' => '潛在客戶編號',
@@ -74,5 +74,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Invoice 出貨單
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-27
+ * 更新日期: 2018-03-15
  *************************************************************************************/

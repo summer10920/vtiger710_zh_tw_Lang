@@ -15,7 +15,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '聯絡人列表',	
 
 	// Blocks
-	'LBL_CONTACT_INFORMATION' => '基本細節',	
+	'LBL_CONTACT_INFORMATION' => '基本資訊',	
 	'LBL_CUSTOMER_PORTAL_INFORMATION' => '客戶入口網帳戶詳情',
 	'LBL_IMAGE_INFORMATION' => '資料圖片',
 	'LBL_COPY_OTHER_ADDRESS' => '複製其他地址',
@@ -70,5 +70,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Contacts 聯絡人
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-14
+ * 更新日期: 2018-03-15
  *************************************************************************************/

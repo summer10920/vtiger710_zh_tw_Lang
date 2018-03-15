@@ -15,7 +15,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '供應商列表',
 
 	// Blocks
-	'LBL_VENDOR_INFORMATION' => '供應商細節',
+	'LBL_VENDOR_INFORMATION' => '供應商資訊',
 	'LBL_VENDOR_ADDRESS_INFORMATION' => '詳細地址',
 
 	//Field Labels
@@ -48,5 +48,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Vendors 供應商
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-05
+ * 更新日期: 2018-03-15
  *************************************************************************************/

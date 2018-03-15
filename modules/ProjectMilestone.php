@@ -17,14 +17,14 @@ $languageStrings = array(
     'LBL_MILESTONES_LIST' => '里程碑列表',
 
 	// Blocks
-	'LBL_PROJECT_MILESTONE_INFORMATION' => '專案里程碑細節',
+	'LBL_PROJECT_MILESTONE_INFORMATION' => '專案里程碑資訊',
 	
 	//Field Labels
 	'Project Milestone Name' => '專案里程碑名稱',
 	'Milestone Date' => '里程碑日期',
 	'Project Milestone No' => '專案里程碑編號',
         'Type' => '類型',
-    'Related to' => '相關於',
+    'Related to' => '專案項目',
 	//picklist values
 	'administrative' => '管理',
     'operative' => '操作',
@@ -35,5 +35,5 @@ $languageStrings = array(
  * 臺灣繁體中文語言包 - Project Milestone 專案里程碑
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-02
+ * 更新日期: 2018-03-15
  *************************************************************************************/

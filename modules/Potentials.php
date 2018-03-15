@@ -15,7 +15,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '銷售機會列表',
 
 	// Blocks
-	'LBL_OPPORTUNITY_INFORMATION' => '銷售機會細節',
+	'LBL_OPPORTUNITY_INFORMATION' => '銷售機會資訊',
 
 	//Field Labels
 	'Potential No' => '銷售機會編號',
@@ -44,8 +44,10 @@ $languageStrings = array(
 	'Value Proposition'=>'方案提議',
 	'Id. Decision Makers'=>'鑑別決策者',
 	'Perception Analysis'=>'客戶認知分析',
-	'Proposal/Price Quote'=>'提案/報價',
-	'Negotiation/Review'=>'談判/檢討',
+	//'Proposal/Price Quote'=>'提案/報價',	//Optimized by Loki in 7.1.0
+	'Proposal or Price Quote'=>'提案/報價',
+	//'Negotiation/Review'=>'談判/檢討',	//Optimized by Loki in 7.1.0
+	'Negotiation or Review'=>'談判/檢討',
 	'Closed Won'=>'結案成功',
 	'Closed Lost'=>'結案失敗',
 
@@ -76,5 +78,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Potentials 潛在商機
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-02
+ * 更新日期: 2018-03-15
  *************************************************************************************/

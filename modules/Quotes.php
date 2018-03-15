@@ -19,7 +19,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '報價單列表',
 
 	// Blocks
-	'LBL_QUOTE_INFORMATION' => '報價單細節',
+	'LBL_QUOTE_INFORMATION' => '報價單資訊',
 
 	//Field Labels
 	'Quote No'=>'報價單編號',
@@ -38,28 +38,7 @@ $languageStrings = array(
 	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => '這些記錄已從系統中刪除，請移除。',
 
 	
-	
-	// custom bizlution
-	'BZ_QUOTAION'=>'報價單',
-	'BZ_PRICE_VALID'=>'有效截止日',
-	'BZ_QUOTE_DATE'=>'報價日期',
-	'BZ_SALES'=>'業務負責人',
-	'BZ_CONTACT'=>'聯絡人',
-	'BZ_EIN'=>'統一編號',
-	'BZ_PAYMENT'=>'付款方式',
-	'BZ_NOTE'=>'注意事項',
-	'BZ_PAYMENT_TERMS'=>'付款條件',
-	'BZ_TT_IN_ADVANCE'=>'出貨前付款',
-	'BZ_TOTAL'=>'總計',
-	'BZ_SUB_TOTAL'=>'合計',
-	'BZ_SHIPPING_COSTS'=>'運費',
-	'BZ_NOTE'=>'注意事項',
-	'BZ_VAT'=>'稅金',
 
-	'BZ_BENES_NAME'=>'帳戶名稱',
-	'BENES_BANK_NAME'=>'匯款銀行',
-	'BENES_AC_No'=>'匯款帳號',
-	
 	
 );
 
@@ -70,5 +49,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Quotes 報價單
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-14
+ * 更新日期: 2018-03-15
  *************************************************************************************/

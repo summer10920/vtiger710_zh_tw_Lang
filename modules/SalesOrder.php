@@ -19,7 +19,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '銷售訂單列表',
 
 	// Blocks
-	'LBL_SO_INFORMATION' => '銷售訂單細節',
+	'LBL_SO_INFORMATION' => '銷售訂單資訊',
 
 	//Field labels
 	'SalesOrder No'=>'銷售訂單編號',
@@ -30,7 +30,7 @@ $languageStrings = array(
 	'Sales Commission' => '銷售佣金',
 	'Purchase Order'=>'採購訂單',
 	'Vendor Terms'=>'供應商條款',
-	'Pending'=>'等待',
+	'Pending'=>'等待付款',
 	'Enable Recurring' => '啟用定期出貨單',
 	'Frequency' => '週期',
 	'Start Period' => '開始週期',
@@ -50,6 +50,10 @@ $languageStrings = array(
 	'LBL_THIS' => '此',
 	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => '已從系統中刪除記錄，請刪除或替換。',
 	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => '已從系統中刪除這些記錄，請移除。',
+	
+	
+	//Optimized by Loki in 7.1.0
+	'Recurring Invoice Information'=>'週期性出貨',
 );
 
 $jsLanguageStrings = array(
@@ -59,5 +63,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Sales Order 銷售訂單
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-05
+ * 更新日期: 2018-03-15
  *************************************************************************************/

@@ -21,7 +21,7 @@ $languageStrings = array(
 	'LBL_COPY_BILLING_ADDRESS' => '複製帳單地址',
 
 	// Blocks
-	'LBL_PO_INFORMATION' => '採購訂單細節',
+	'LBL_PO_INFORMATION' => '採購訂單資訊',
 
 	//Field Labels
 	'PurchaseOrder No' => '採購訂單編號',
@@ -49,7 +49,7 @@ $languageStrings = array(
 	'LBL_COMPANY_ADDRESS' => '公司地址',
 	'LBL_ACCOUNT_ADDRESS' => '客戶地址',
 	'LBL_VENDOR_ADDRESS' => '供應商地址',
-	'LBL_CONTACT_ADDRESS' => '聯絡人地址'
+	'LBL_CONTACT_ADDRESS' => '聯絡人地址',
 	
 );
 
@@ -68,5 +68,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Purchase Order 採購訂單
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-05
+ * 更新日期: 2018-03-15
  *************************************************************************************/

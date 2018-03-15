@@ -19,11 +19,11 @@ $languageStrings = array(
 	'ILTI' => '最進的出貨單',
 	'HDB' => '首頁資訊主頁',
 	'OLTPO' => '最近的採購訂單',
-	'LTFAQ' => '我最近的常見問題集',
+	'LTFAQ' => '我最近的常見問答集',
 	'UA' => '即將進行的活動',
 	'PA' => '待定的活動',
     'Home'=> '資訊主頁',
-	'LBL_SAVE_ORDER'=>'保存訂單',
+	'LBL_SAVE_ORDER'=>'儲存排序',
 	'LBL_ADD_NEW_DASHBOARD'=>'新增資訊主頁',
 	'LBL_MAX_CHARACTERS_ALLOWED_DASHBOARD' => '資訊主頁命名只允許30個字元為上限。',
 );
@@ -31,5 +31,5 @@ $languageStrings = array(
  * 臺灣繁體中文語言包 - Home 首頁
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-14
+ * 更新日期: 2018-03-15
  *************************************************************************************/

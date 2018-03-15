@@ -15,8 +15,8 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '文件列表',
 
 	// Blocks
-	'LBL_NOTE_INFORMATION' => '基本細節',
-	'LBL_FILE_INFORMATION' => '文件細節',
+	'LBL_NOTE_INFORMATION' => '基本資訊',
+	'LBL_FILE_INFORMATION' => '文件資訊',
 	'LBL_DESCRIPTION' => '描述',
 
 	//Field Labels
@@ -25,7 +25,7 @@ $languageStrings = array(
 	'Note' => '簡介',
 	'File Type' => '文件類型',
 	'File Size' => '文件大小',
-	'Download Type' => '下載類型',
+	'Download Type' => '檔案路徑',
 	'Version' => '版本',
 	'Active' => '啟用',
 	'Download Count' => '下載次數',	
@@ -120,5 +120,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Documents 文件
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-26
+ * 更新日期: 2018-03-15
  *************************************************************************************/

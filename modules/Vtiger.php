@@ -88,7 +88,7 @@ $languageStrings = array(
 	'LBL_NO_ATTACHMENTS' => '沒有附件',
 	'LBL_COMPOSE_EMAIL_WARNING' => ' 警告 : 您的電子郵件可能會被當作垃圾信件。將Vtiger添加到您網域的可信任來源。了解更多',
 	// Common Link Labels
-	'LBL_REARRANGE_DASHBOARD_TABS' => '重新排列標籤',
+	'LBL_REARRANGE_DASHBOARD_TABS' => '重新排列頁籤',
 	'LBL_DONE' => '完成',
 	'LBL_DELETE_DASHBOARD_TAB' =>'刪除標籤',
 	'LBL_DASHBOARD_TAB_ALREADY_EXIST' => '標籤名稱已存在',
@@ -217,7 +217,7 @@ $languageStrings = array(
 	'LBL_RECENTLY_MODIFIED' => '最近修改',
 	'LBL_RECORDS_LIST' => '記錄列表',
 	'LBL_RECORD_SUMMARY' => '模組摘要',
-	'LBL_RECORD_SUMMARY' => '模組細節',
+	//'LBL_RECORD_SUMMARY' => '模組細節',
 	'LBL_ACCESS_DENIED_FOR' => '訪問被拒',
 	'LBL_GO_BACK' => '返回',
 	'LBL_NO_DATA_AVAILABLE' => '無可用資料',
@@ -558,7 +558,7 @@ $languageStrings = array(
 	'DHL'=>'DHL (德國郵政)',
 	'BlueDart'=>'BlueDart(藍標快遞)',
 	'Carrier' => '快遞公司',
-	'Category'=>'類別',
+	'Category'=>'分類',
 	//'Chemicals'=>'化工',
 	'City' => '鄉鎮市區',
 
@@ -617,11 +617,11 @@ $languageStrings = array(
 	'Conversion Rate' => '匯率',
 
 	'Shipping Address' => '收貨地址',
-	'Shipping City' => '鄉鎮市區 (收貨)', 
-	'Shipping State' => '縣/市 (收貨)',
-	'Shipping Code' => '郵遞區號 (收貨)',
-	'Shipping Country' => '國家 (收貨)',
-	'Shipping Po Box' => '郵政信箱 (收貨)',
+	'Shipping City' => '鄉鎮市區 (運貨)', 
+	'Shipping State' => '縣/市 (運貨)',
+	'Shipping Code' => '郵遞區號 (運貨)',
+	'Shipping Country' => '國家 (運貨)',
+	'Shipping Po Box' => '郵政信箱 (運貨)',
 	'Country' => '國家',
 	//'Description' => '描述',
 
@@ -679,7 +679,7 @@ $languageStrings = array(
 	'Sub Total' => '小計',
 	'Tax Type' => '稅務類型',
 	//'S&H Amount' => '郵資包裝附加費',
-	'Status' => '狀態',	
+	'Status' => '階段',	
 	'Vendor Name'=>'供應商名稱',
 
 	'LBL_ADDRESS_INFORMATION' => '詳細地址',
@@ -1378,7 +1378,7 @@ $languageStrings = array(
 	'LBL_DEFAULT_DASHBOARD_TOOLTIP'=>'重新排序為第一個標籤作為此資訊主頁的默認設置！',
 	
 	
-	// 7.1.0 loss-fixed by vTigerCRMtoTaiwan
+	//Optimized by Loki in 7.1.0
 	'starred' => '追蹤',
 	'Relation' => '關聯模組',
 	'Tasks' => '任務',
@@ -1845,7 +1845,7 @@ $jsLanguageStrings = array(
 	'JS_LBL_MY_PREFERENCES' => '個人偏好設定',
 	'JS_LBL_MY_PREFERENCES_TEXT' => '配置您的個人偏好，包括時區、幣別、日期格式。您也可以從我的個人偏好選項上傳個人照片。',
 	'JS_LBL_HELP' => '幫助',
-	'JS_LBL_HELP_TEXT' => '點擊幫助按鈕查找指南和常見問題解答，並使用幫助選單下拉獲得Vtiger支持團隊的幫助',
+	'JS_LBL_HELP_TEXT' => '點擊幫助按鈕查找指南和常見問答解答，並使用幫助選單下拉獲得Vtiger支持團隊的幫助',
 	'JS_LBL_RESTART_TOUR' => '重新啟動導覽',
 	'JS_LBL_RESTART_TOUR_TEXT' => '點擊此處重新開始進行導覽',
 	'JS_GOOGLE_REMOVE_SYNC_CONFIRMATION' => '撤銷訪問權限只會移除聯絡人和日曆的現有Google身份驗證，但不會刪除同步的記錄。如果您再次與同一個Google帳戶同步，則會創建重複記錄。你確定要撤銷訪問嗎？',
@@ -1938,5 +1938,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Vtiger 系統主體
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-14
+ * 更新日期: 2018-03-15
  *************************************************************************************/

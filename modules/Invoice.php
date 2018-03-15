@@ -46,6 +46,7 @@ $languageStrings = array(
 	'LBL_NOT_A_BUNDLE' => '不是產品搭售',
 	'LBL_SUB_PRODUCTS' => '子產品',
 	'LBL_ACTION' => '操作',	
+	
 );
 
 $jsLanguageStrings = array(
@@ -55,5 +56,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Invoice 出貨單
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-27
+ * 更新日期: 2018-03-15
  *************************************************************************************/

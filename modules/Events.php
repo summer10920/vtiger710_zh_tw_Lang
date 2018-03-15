@@ -22,7 +22,7 @@ $languageStrings = array(
 	'LBL_CREATE_FOLLOWUP_EVENT' => '建立跟進事件',
 	
 	// Blocks
-	'LBL_EVENT_INFORMATION' => '事件細節',
+	'LBL_EVENT_INFORMATION' => '事件資訊',
 	'LBL_RECURRENCE_INFORMATION' => '重複資訊',
 	'LBL_RELATED_TO' => '關聯於',
 	
@@ -105,5 +105,5 @@ $languageStrings = array(
  * 臺灣繁體中文語言包 - Events 事件
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-26
+ * 更新日期: 2018-03-15
  *************************************************************************************/

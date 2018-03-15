@@ -15,7 +15,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '服務列表',
 
 	// Blocks
-	'LBL_SERVICE_INFORMATION' => '服務細節',
+	'LBL_SERVICE_INFORMATION' => '服務資訊',
 	
 	'LBL_MORE_CURRENCIES' => '更多幣別', 
 	'LBL_PRICES' => '服務價格',
@@ -29,7 +29,7 @@ $languageStrings = array(
 	//Field Labels
 	'Service Name'=>'服務名稱',
 	'Service Active'=>'啟用',
-	'Service Category'=>'類別',	
+	'Service Category'=>'服務分類',	
 	'Service No'=>'服務編號',
 	'Owner'=>'負責人',
 	'No of Units'=>'單位數量',
@@ -41,10 +41,17 @@ $languageStrings = array(
 	
 	//Services popup of pricebook
 	//'LBL_ADD_TO_PRICEBOOKS' => '新增到價目表',
+	
+	//Optimized by Loki in 7.1.0
+	'Hours'=>'時數',
+	'Days'=>'天數',
+	'Incidents'=>'事件次數',
+	
+	
 );
 /*+***********************************************************************************
  * 臺灣繁體中文語言包 - Services 服務
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-05
+ * 更新日期: 2018-03-15
  *************************************************************************************/

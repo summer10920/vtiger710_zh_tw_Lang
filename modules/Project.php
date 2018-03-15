@@ -15,7 +15,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '專案列表',
 
 	// Blocks
-	'LBL_PROJECT_INFORMATION' => '專案細節',
+	'LBL_PROJECT_INFORMATION' => '專案資訊',
 
 	//Field Labels
 	'Project Name' => '專案名稱',
@@ -27,7 +27,7 @@ $languageStrings = array(
 	'Project Url' => '專案連結',
 	'Progress' => '進度',
 		'Type' => '類型',
-	'Related to' => '關聯於',
+	'Related to' => '專案對象',
 
 	//Summary Information
 	'LBL_TASKS_OPEN' => '已開始的任務',
@@ -93,5 +93,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Project 專案
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-02
+ * 更新日期: 2018-03-15
  *************************************************************************************/

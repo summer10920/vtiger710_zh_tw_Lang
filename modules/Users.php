@@ -48,7 +48,7 @@ $languageStrings = array(
 	'LBL_HIDE' => '隱藏',
 	'LBL_HOME_PAGE_COMPO' => '首頁元件',
 	'LBL_LOGIN_HISTORY' => '登入記錄',
-	'LBL_USERDETAIL_INFO' => '查看用戶細節',
+	'LBL_USERDETAIL_INFO' => '查看用戶資訊',
 	'LBL_DELETE_GROUP' => '刪除群組',
 	'LBL_DELETE_GROUPNAME' => '群組已刪除',
 	'LBL_TRANSFER_GROUP' => '將所有權轉交給：',
@@ -283,5 +283,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - User 用戶
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-14
+ * 更新日期: 2018-03-15
  *************************************************************************************/

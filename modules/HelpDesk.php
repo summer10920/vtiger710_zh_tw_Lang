@@ -15,20 +15,20 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '客服記錄列表',
 
 	// Blocks
-	'LBL_TICKET_INFORMATION' => '客服記錄細節',
+	'LBL_TICKET_INFORMATION' => '客服記錄資訊',
 	'LBL_TICKET_RESOLUTION' => '詳細解決方案',
 
 	//Field Labels
-	'Ticket No' => '編號',	
+	'Ticket No' => '客服紀錄編號',	
 	'LBL_SEVERITY' => '嚴重程度',
 	'Update History' => '更新歷史記錄',
-	'Hours' => '小時',
+	'Hours' => '時數',
 	'Days' => 'Days',
-	'Days' => '天',		
+	'Days' => '天數',		
 	'Solution' => '解決方案',
 	'From Portal' => '來自於客戶入口網',
 	'Related To' => '客戶名稱',
-	'Contact Name' => '聯絡人姓名',
+	'Contact Name' => '聯絡人',
 	//Added for existing picklist entries
 
 	'Big Problem'=>'嚴重問題',
@@ -50,7 +50,7 @@ $languageStrings = array(
 	'LBL_STATUS' => '狀態',
 	//'LBL_SEVERITY' => '嚴重程度',
 	//DetailView Actions
-	'LBL_CONVERT_FAQ' => '轉為常見問題 FAQ',
+	'LBL_CONVERT_FAQ' => '轉為常見問答',
 	'LBL_RELATED_TO' => '關聯於',
 
 	//added to support i18n in ticket mails
@@ -100,6 +100,10 @@ $languageStrings = array(
 	'LBL_ADD_DOCUMENT'=>"新增文件",
 	'LBL_OPEN_TICKETS'=>"打開客服記錄",
 	'LBL_CREATE_TICKET'=>"建立客服記錄",
+
+	//Optimized by Loki in 7.1.0
+	'Title'=>'主題',
+	'Severity' => '客評影響度',
 );
 
 $jsLanguageStrings=array(
@@ -111,5 +115,5 @@ $jsLanguageStrings=array(
  * 臺灣繁體中文語言包 - HelpDesk 客服記錄
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-27
+ * 更新日期: 2018-03-15
  *************************************************************************************/

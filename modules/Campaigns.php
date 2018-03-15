@@ -34,13 +34,13 @@ $languageStrings = array(
 	'Actual Cost' => '實際成本',
 	'Expected Response Count' => '預期回應數量',
 	'Expected Sales Count' => '預期銷售數量',
-	'Expected ROI' => '預期投資回報率',
+	'Expected ROI' => '預期投資報酬率',
 	'Actual Response Count' => '實際回應數量',
 	'Actual Sales Count' => '實際銷售數量',
-	'Actual ROI' => '實際投資回報率',
+	'Actual ROI' => '實際投資報酬率',
 
 	//Added for existing Picklist Entries
-
+	'Partners'=>'合作夥伴',
 	'Webinar'=>'網路研討會', 
 	'Referral Program'=>'推薦計劃',
 	'Advertisement'=>'廣告',
@@ -48,10 +48,11 @@ $languageStrings = array(
 	'Direct Mail'=>'直接行銷',
 	'Telemarketing'=>'電話行銷',
 	'Others'=>'其他',
-
+	'Others'=>'其他',
 	'Planning'=>'計畫中',						      	    
 	'Inactive'=>'暫緩',
-	'Complete'=>'完成',
+	//'Complete'=>'完成', 
+	'Completed'=>'已完成', //Optimized by Loki in 7.1.0
 	'Cancelled'=>'已取消',						      
 
 	'Excellent'=>'極佳',
@@ -73,5 +74,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Campaigns 行銷活動
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-26
+ * 更新日期: 2018-03-15
  *************************************************************************************/

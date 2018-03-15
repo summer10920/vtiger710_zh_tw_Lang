@@ -13,7 +13,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '評論列表',
 
 	// Blocks
-	'LBL_MODCOMMENTS_INFORMATION' => '評論細節',
+	'LBL_MODCOMMENTS_INFORMATION' => '評論資訊',
 	'LBL_OTHER_INFORMATION' => '其它資訊',
 
 	'LBL_ADDING_COMMENT' => '新增評論',
@@ -32,5 +32,5 @@ $languageStrings = array(
  * 臺灣繁體中文語言包 - ModComment 評論
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-27
+ * 更新日期: 2018-03-15
  *************************************************************************************/

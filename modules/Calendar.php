@@ -29,8 +29,8 @@ $languageStrings = array(
         'LBL_STATUS' => '狀態',
         'LBL_TYPE' => '類型',
 	// Blocks
-	'LBL_TASK_INFORMATION' => '任務細節',
-    'LBL_EVENT_INFORMATION'=> '事件細節',
+	'LBL_TASK_INFORMATION' => '任務資訊',
+    'LBL_EVENT_INFORMATION'=> '事件資訊',
 
 	//Fields
 	'Subject' => '主題',
@@ -138,7 +138,7 @@ $languageStrings = array(
     'LBL_CONTACT_LIST' => '聯絡人列表',
     'LBL_APP_DESCRIPTION' => '描述',
     'LBL_REGARDS_STRING' => 'Thanks & Regards',
-    'LBL_EVENT_INFORMATION' => '事件細節',
+    'LBL_EVENT_INFORMATION' => '事件資訊',
 	'LBL_UPDATED_INVITATION' => '最新邀請',
 	'LBL_INVITATION' => '邀請',
 	
@@ -264,5 +264,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Calendar 日曆
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-26
+ * 更新日期: 2018-03-15
  *************************************************************************************/

@@ -12,7 +12,7 @@ $languageStrings = Array(
     'Recycle Bin'=> '垃圾桶' ,
     'RecycleBin' => '垃圾桶',
 	'LBL_SELECT_MODULE' => '選擇模組',
-	'LBL_EMPTY_RECYCLEBIN' => '空的垃圾桶',
+	'LBL_EMPTY_RECYCLEBIN' => '清空垃圾桶',
 	'LBL_RESTORE' => '還原',
 	'LBL_NO_PERMITTED_MODULES' => '沒有可用模組',
 	'LBL_RECORDS_LIST' => '垃圾桶列表',
@@ -31,7 +31,6 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - RecycleBin 垃圾桶
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-05
+ * 更新日期: 2018-03-15
  *************************************************************************************/
-
 ?>

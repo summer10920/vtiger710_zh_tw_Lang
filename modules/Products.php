@@ -15,7 +15,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '產品列表',
 
 	// Blocks
-	'LBL_PRODUCT_INFORMATION' => '產品細節',
+	'LBL_PRODUCT_INFORMATION' => '產品資訊',
 	'LBL_IMAGE_INFORMATION' => '產品圖片資訊',
 	'LBL_STOCK_INFORMATION' => '庫存資訊',
 	
@@ -42,7 +42,7 @@ $languageStrings = array(
 	//'Reorder Level'=>'安全庫存',
 	//'Vendor PartNo'=>'供應商產品型號',
 	'Serial No'=>'序號',
-	'Qty In Stock'=>'需求數量',
+	'Qty In Stock'=>'現有數量',
 	'Product Sheet'=>'產品清單',
 	'Qty In Demand'=>'需求數量',
 	'GL Account'=>'會計科目',
@@ -69,6 +69,7 @@ $languageStrings = array(
 	'307-Service-Hardware Labor'=>'307-服務-硬體人工',
 	'308-Sales-Books'=>'308-銷售-手冊',
 
+	// https://cus93.trade.gov.tw/FSCP090I/FSCP090I?QTY_UNIT=A  //Optimized by Loki in 7.1.0
 	'Box'=>'箱',
 	'Carton'=>'(紙)箱',
 	//'Caton'=>'Caton',
@@ -106,5 +107,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Products 產品
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-02
+ * 更新日期: 2018-03-15
  *************************************************************************************/

@@ -506,7 +506,7 @@ $languageStrings = Array(
 // v.2.10.0
     "LBL_URL" => "您的vtiger網址",
     "LBL_COMPANY_LICENSE_INFO" => "您的公司資訊",
-    "LBL_CHANGE_COMPANY_INFORMATION" => "更改工資訊",
+    "LBL_CHANGE_COMPANY_INFORMATION" => "更改公司資訊",
     "LBL_ACTIVATE_BTN" => "為了正確使用您的pdf Maker，您必須重新激活您的許可證。",
     "LBL_LICENSE_SETTINGS_INFO" => "管理您的PDF Maker許可證密鑰",
     "LBL_ACTIVATE_KEY_TITLE" => "設定許可證密鑰啟用",
@@ -569,5 +569,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - PDF Maker
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-14
+ * 更新日期: 2018-03-15
  *************************************************************************************/
