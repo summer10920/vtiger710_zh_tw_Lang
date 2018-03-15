@@ -15,7 +15,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '客戶清單',
 
 	// Blocks
-	'LBL_ACCOUNT_INFORMATION' => '客戶細節',
+	'LBL_ACCOUNT_INFORMATION' => '客戶資訊',
 
 	// Mass Action
 	'LBL_SHOW_ACCOUNT_HIERARCHY' => '公司架構',
@@ -66,5 +66,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Account 客戶
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-26
+ * 更新日期: 2018-03-15
  *************************************************************************************/
