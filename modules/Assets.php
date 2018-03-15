@@ -15,11 +15,11 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => '保固列表',
 
 	// Blocks
-	'LBL_ASSET_INFORMATION' => '保固合約細節',
+	'LBL_ASSET_INFORMATION' => '保固合約資訊',
 
 	//Field Labels
-    'Asset No' => '保固編號',
-	'Serial Number' => '序列編號',
+    'Asset No' => '保固合約編號',
+	'Serial Number' => '序號',
 	'Date Sold' => '售出日期',
 	'Date in Service' => '服務日期',
 	'Tag Number' => '標籤號碼',
@@ -38,5 +38,5 @@ $languageStrings = array(
  * 臺灣繁體中文語言包 - Assets 保固合約
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-26
+ * 更新日期: 2018-03-15
  *************************************************************************************/
