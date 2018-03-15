@@ -54,7 +54,7 @@ $languageStrings = array(
 	'BZ_SUB_TOTAL'=>'合計',
 	'BZ_SHIPPING_COSTS'=>'運費',
 	'BZ_NOTE'=>'注意事項',
-	'BZ_VAT'=>'稅額',
+	'BZ_VAT'=>'稅金',
 
 	'BZ_BENES_NAME'=>'帳戶名稱',
 	'BENES_BANK_NAME'=>'匯款銀行',
@@ -70,5 +70,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Quotes 報價單
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-05
+ * 更新日期: 2018-03-14
  *************************************************************************************/

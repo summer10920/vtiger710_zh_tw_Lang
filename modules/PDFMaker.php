@@ -91,7 +91,7 @@ $languageStrings = Array(
     "LBL_VARIABLE_DISCOUNT" => "折扣",
     "LBL_VARIABLE_PRODUCTTOTALAFTERDISCOUNT" => "折扣後總計",
     "LBL_PRODUCT_VAT_PERCENT" => "稅金 (%)",
-    "LBL_PRODUCT_VAT_SUM" => "稅額",
+    "LBL_PRODUCT_VAT_SUM" => "稅金",
     "LBL_PRODUCT_TOTAL_VAT" => "含稅總和",
     "LBL_VARIABLE_DISCOUNT_PERCENT" => "折扣 (%)",
     "LBL_VARIABLE_TOTALDISCOUNT_PERCENT" => "總折扣 (%)",
@@ -100,7 +100,7 @@ $languageStrings = Array(
     "LBL_VARIABLE_SUMWITHOUTVAT" => "小記",
     "LBL_VARIABLE_TOTALDISCOUNT" => "總折扣",
     "LBL_VARIABLE_TOTALAFTERDISCOUNT" => "未稅總和",
-    "LBL_VARIABLE_VAT" => "稅額",
+    "LBL_VARIABLE_VAT" => "稅金",
     "LBL_VARIABLE_VAT_PERCENT" => "稅金 (%)",
     "LBL_VARIABLE_VAT_BLOCK" => "稅金區域",
     "LBL_VARIABLE_SUMWITHVAT" => "含稅總和",
@@ -149,11 +149,11 @@ $languageStrings = Array(
     "SELECT_TEMPLATE" => "請選擇PDF樣板",
     "LBL_VATBLOCK_VAT_PERCENT" => "稅率 %",
     "LBL_VATBLOCK_SUM" => "加",
-    "LBL_VATBLOCK_VAT_VALUE" => "稅額",
+    "LBL_VATBLOCK_VAT_VALUE" => "稅金",
     "LBL_TOTAL_AFTER_DISCOUNT" => "折扣後總計",
-    "LBL_TOTAL_TAX_AMOUNT" => "總稅額",
-    "LBL_SHTAXTOTAL" => "運費與手續費之稅金",
-    "LBL_SHTAXAMOUNT" => "運費與手續費",
+    "LBL_TOTAL_TAX_AMOUNT" => "總稅金",
+    "LBL_SHTAXTOTAL" => "郵資包裝費之稅金",
+    "LBL_SHTAXAMOUNT" => "郵資包裝費",
     "LBL_IGNORE_PICKLIST_VALUES" => "忽略選取列表值",
     "LBL_IGNORE_PICKLIST_VALUES_DESC" => "輸入以逗號分隔的選取列表值，這些值在PDF樣板中將被忽略。(i.e. --None--, --none--, --keine--)",
     "LBL_DECIMALS" => "數字格式",
@@ -436,7 +436,7 @@ $languageStrings = Array(
     "LBL_PDF_LANGUAGE" => "PDF語言",
     "LBL_MPDF" => "mPDF",
     "LBL_PLEASE_FINISH_INSTALLATION" => "請完成安裝",
-    'LBL_EXPORT_TO_PDF' => '匯出為pdf',
+    'LBL_EXPORT_TO_PDF' => '匯出為PDF',
     "LBL_PERMISSION" => " 您無法執行此操作",
     "ARE_YOU_SURE" => "您確定嗎?",
     "LBL_TEMPLATE_INFORMATIONS" => "樣板資訊",
@@ -569,5 +569,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - PDF Maker
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-02
+ * 更新日期: 2018-03-14
  *************************************************************************************/

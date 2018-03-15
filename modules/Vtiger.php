@@ -95,7 +95,7 @@ $languageStrings = array(
 	'LBL_TABS_LIMIT_EXCEEDED' => '抱歉！無法添加10個以上標籤',
 	'LBL_TODOS' => '任務',
 	'LBL_LAST_VIEWED_RECORDS' => '最近瀏覽記錄',
-	'LBL_DASHBOARD' => '儀表板',
+	'LBL_DASHBOARD' => '資訊主頁',
 	'LBL_USER_SETTINGS' => '用戶設定',	
 	'LBL_MY_PREFERENCES' => '個人偏好設定',
 	'LBL_SIGN_OUT' => '登出',	
@@ -149,10 +149,10 @@ $languageStrings = array(
 	'LBL_SUMMARY_DETAILS' => '摘要細節',
 	'LBL_ADD_NEW_COMMENT' =>'新增評論',
 	'LBL_NO_UPDATES' => '沒有更新',
-	'LBL_ACTIVITIES' => '分類',
+	'LBL_ACTIVITIES' => '活動',
 	'LBL_NO_PENDING_ACTIVITIES' => '沒有待辦活動',	
 	'LBL_SUMMARY' => '摘要',	
-	'LBL_KEY_FIELD' => '關鍵欄位',
+	'LBL_KEY_FIELD' => '重點欄位',
 	'LBL_DETAILS' => '細節',
 	'LBL_NAME_EMAIL' => '名稱和電子郵件',
 
@@ -292,12 +292,12 @@ $languageStrings = array(
 	'LBL_LI_ADD_PRODUCT' => '產品',
 	'LBL_LI_ADD_SERVICE' => '服務',
 	'LBL_ITEMS_TOTAL' => '項目總計',
-	'LBL_SHIPPING_AND_HANDLING_CHARGES' => '運費與手續費',
+	'LBL_SHIPPING_AND_HANDLING_CHARGES' => '郵資包裝費',
 	'LBL_PRE_TAX_TOTAL' => '稅前合計',
-	'LBL_TAX_FOR_SHIPPING_AND_HANDLING' => '運費與手續費之稅金',
-	'LBL_SET_SHIPPING_AND_HANDLING_TAXES_FOR' => '設定運費與手續費的稅金為',
+	'LBL_TAX_FOR_SHIPPING_AND_HANDLING' => '郵資包裝費之稅金',
+	'LBL_SET_SHIPPING_AND_HANDLING_TAXES_FOR' => '設定郵資包裝費的稅金為',
 	'LBL_ADJUSTMENT' => '調整',
-	'LBL_DEDUCT' => '扣減',
+	'LBL_DEDUCT' => '減少',
 	'LBL_GRAND_TOTAL' => '合計',
 	'LBL_ZERO_DISCOUNT' => '無折扣',
 	'LBL_OF_PRICE' => '價格',
@@ -306,12 +306,12 @@ $languageStrings = array(
 	'LBL_STOCK_NOT_ENOUGH' => '庫存不足',
 	'LBL_MAX_QTY_SELECT' => '最大值為',
 	'LBL_DRAG' => '按住滑鼠拖曳',
-	'LBL_TOTAL_TAX_AMOUNT' => '稅款總額',
+	'LBL_TOTAL_TAX_AMOUNT' => '稅金總額',
 	'LBL_DIRECT_AMOUNT_DISCOUNT' => '直接金額折扣',
 	'LBL_FINAL_DISCOUNT_AMOUNT' => '最終折扣金額',
 	'LBL_MORE_CURRENCIES' => '更多幣別',
 	'LBL_SET_TAX_FOR' => '設定稅金為',
-	'LBL_GROUP_TAX' => '組合計稅為',
+	'LBL_GROUP_TAX' => '合併計稅為',
 	'LBL_BILLING_ADDRESS_FROM' => '複製帳單地址從',
 	'LBL_SHIPPING_ADDRESS_FROM' => '複製收貨地址從',
 	'LBL_COPY_SHIPPING_ADDRESS' => '出貨地址',
@@ -319,12 +319,12 @@ $languageStrings = array(
 	'LBL_OVERALL_DISCOUNT' => '整體折扣',
 	'LBL_CHARGES' => '費用',
 	'LBL_CHARGES_TOTAL' => '費用合計',
-	'LBL_TAXES_ON_CHARGES' => '稅金費用',
+	'LBL_TAXES_ON_CHARGES' => '費用 (稅金)',
 	'LBL_DEDUCTED_TAXES' => '扣除稅金',
 	'LBL_DEDUCTED_TAXES_TOTAL' => '扣除稅金總額',
 	'LBL_DEFAULT' => '預設',
 	'LBL_ITEM' => '項目',
-	'LBL_ADD_DASHBOARD' =>'新增儀表板',
+	'LBL_ADD_DASHBOARD' =>'新增資訊主頁',
 
 	//DetailView Actions
 	'LBL_CREATE' => '建立',
@@ -544,11 +544,11 @@ $languageStrings = array(
 	//'Apparel'=>'服飾業',
 	//'Banking'=>'銀行業'
 	'Billing Address' => '帳單地址',
-	'Billing City' => '鄉鎮市區(帳單)',
-	'Billing Code' => '郵遞區號(帳單)',
-	'Billing Country' => '國家(帳單)',
-	'Billing Po Box' => '郵政信箱(帳單)',
-	'Billing State' => '縣/市(帳單)',
+	'Billing City' => '鄉鎮市區 (帳單)',
+	'Billing Code' => '郵遞區號 (帳單)',
+	'Billing Country' => '國家 (帳單)',
+	'Billing Po Box' => '郵政信箱 (帳單)',
+	'Billing State' => '縣/市 (帳單)',
 	//'Biotechnology'=>'生物技術', 
 
 	//for SO PO and Quotes
@@ -617,11 +617,11 @@ $languageStrings = array(
 	'Conversion Rate' => '匯率',
 
 	'Shipping Address' => '收貨地址',
-	'Shipping City' => '鄉鎮市區(運送)', 
-	'Shipping State' => '縣/市(運送)',
-	'Shipping Code' => '郵遞區號(運送)',
-	'Shipping Country' => '國家(運送)',
-	'Shipping Po Box' => '郵政信箱(運送)',
+	'Shipping City' => '鄉鎮市區 (收貨)', 
+	'Shipping State' => '縣/市 (收貨)',
+	'Shipping Code' => '郵遞區號 (收貨)',
+	'Shipping Country' => '國家 (收貨)',
+	'Shipping Po Box' => '郵政信箱 (收貨)',
 	'Country' => '國家',
 	//'Description' => '描述',
 
@@ -678,7 +678,7 @@ $languageStrings = array(
 	'Total' => '總計',
 	'Sub Total' => '小計',
 	'Tax Type' => '稅務類型',
-	//'S&H Amount' => '運費和物流附加費',
+	//'S&H Amount' => '郵資包裝附加費',
 	'Status' => '狀態',	
 	'Vendor Name'=>'供應商名稱',
 
@@ -716,7 +716,7 @@ $languageStrings = array(
 
 	'Reviewed' => '評論',
 	'Salutation' => '稱謂',
-	'Street' => '街道',	
+	'Street' => '地址',	
 	'Support Start Date' => '支援開始日期',
 	'Support Expiry Date' => '支援到期日',
 	'Sales Start Date'=>'銷售開始日期',
@@ -819,19 +819,19 @@ $languageStrings = array(
 	'Valid Date' => '有效日期',
 	'Phone: ' => '電話: ',
 	'Issued Date' => '簽發日期',
-	'Shipping & Handling Charges' => '運送及安裝費',
-	'Shipping & Handling Tax:' => '運送及安裝費稅:',	
+	'Shipping & Handling Charges' => '郵資包裝費',
+	'Shipping & Handling Tax:' => '郵資包裝費稅:',	
 	'Discount'=>'折扣',
 	'Net Total' => '總淨額',
 	'Product Code' => '產品代碼',
 	'Customer Name'=>'客戶名稱',
 	'Price'=>'價格',
-	'Tax:' => '稅額:',
+	'Tax:' => '稅金:',
 	//'Contact Name' => '聯絡人姓名',
 	'Grand Total:' => '累計:',	
 	'Fax: ' => '傳真: ',
 	'Website: ' => '網址: ',
-	'Tax' => '稅額',
+	'Tax' => '稅金',
 	'LBL_ALPHABETS' => 'A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z',
 
 	//Realted tab strings
@@ -1044,14 +1044,14 @@ $languageStrings = array(
 	'search_in_name_field'=>'搜尋名稱欄位',
 	'LBL_LOOKUP_SEARCH_MODE_INFO'=>'例如：在聯絡人建立表單中，當您從客戶名稱位置輸入文字時，此設定調整出被搜尋客戶的欄位',
 
-	'VAT' => '稅額',
+	'VAT' => '稅金',
 	'Sales' => '銷售',
 	'Service' => '服務',
 	'Pre Tax Total' => '稅前合計',
 	'Received' => '收到',
 	'Balance' => '餘額',
-	'S&H Amount' => '運費和物流附加費',
-	'S&H Percent' => '運費和物流稅率',
+	'S&H Amount' => '郵資包裝附加費',
+	'S&H Percent' => '郵資包裝稅率',
 	'Tax Region' => '稅區',
 
 	//Singular Modulenames
@@ -1099,7 +1099,7 @@ $languageStrings = array(
 	'LBL_EDIT_CUSTOM'=>'編輯列表',
 	'LBL_SHOW_MAP'=>'顯示地圖',
 	'LBL_ADD_TAB'=>'新增標籤',
-	'LBL_TAB_NAME'=>'儀表板名稱',
+	'LBL_TAB_NAME'=>'資訊主頁名稱',
 	'LBL_SHARED_TAGS_ACCESS'=>'所有Vtiger用戶都可使用共享標籤',
 	'LBL_GOTO_TAGS'=>'前往設定 > 個人偏好選項 > 我的標籤 進行編輯或刪除您的私人標籤',
 	'LBL_UNLINK'=>'取消連接',
@@ -1191,7 +1191,7 @@ $languageStrings = array(
 	'LBL_CREATION' => '建立',
 	'LBL_UPLOAD' => '上傳',
 	'LBL_ATTACH_FILES' => '附加檔案',
-	'LBL_KEY_FIELDS' => "關鍵欄位",
+	'LBL_KEY_FIELDS' => "重點",
 	'LBL_ADD_TODO' => '新增任務',
 
 	"LBL_VIEW_DETAILS" => "查看細節",
@@ -1287,7 +1287,7 @@ $languageStrings = array(
 	'Dr.' => 'Dr.',
 	'Prof.' => '教授',
 	'SINGLE_Cases'=>'案例',
-	'LBL_TAX_MODE_INFO' =>'如果單項計稅，稅額將從個別產品記錄中所算。 如果合併計稅, 稅額將從全域設定中所算',
+	'LBL_TAX_MODE_INFO' =>'如果單項計稅，稅金將從個別產品記錄中所算。 如果合併計稅, 稅金將從全域設定中所算',
 	'LBL_CURRENCY_INFO' =>'根據配置的匯率，值將改為所選的幣別。',
 	'LBL_TAX_REGION_INFO' =>'根據變動稅，稅率將根據所選稅區調整。',
 	'LBL_TAX_CONFIGURE' =>'設定稅區',
@@ -1375,12 +1375,13 @@ $languageStrings = array(
 
 	'LBL_RECENT_UPDATES' => '最近更新',
 	'LBL_VIEW_UPDATES_IN_DETAIL' => '了解更多 ...',
-	'LBL_DEFAULT_DASHBOARD_TOOLTIP'=>'重新排序為第一個標籤作為此儀表板的默認設置！',
+	'LBL_DEFAULT_DASHBOARD_TOOLTIP'=>'重新排序為第一個標籤作為此資訊主頁的默認設置！',
 	
 	
 	// 7.1.0 loss-fixed by vTigerCRMtoTaiwan
 	'starred' => '追蹤',
 	'Relation' => '關聯模組',
+	'Tasks' => '任務',
 );
 
 $jsLanguageStrings = array(
@@ -1553,7 +1554,7 @@ $jsLanguageStrings = array(
 	'JS_ALLOWED_TO_SELECT_MAX_OF_THREE_RECORDS' => '你可以選擇最多三個記錄',	
 	//Notification message for dashboard widget delete
 	'JS_ARE_YOU_SURE_TO_DELETE_WIDGET' => '您確定要刪除小工具 - %s ？',
-	'JS_ARE_YOU_SURE_TO_DELETE_DASHBOARDTAB' => '您確定要刪除儀表板標籤 - %s?',
+	'JS_ARE_YOU_SURE_TO_DELETE_DASHBOARDTAB' => '您確定要刪除資訊主頁標籤 - %s?',
 	'JS_TABS_LIMIT_EXCEEDED' => '抱歉!無法添加10以上的標籤',
 	//'JS_DUPLICATE_ENTRIES_FOUND_FOR_THE_VALUE' => '找到重複的項',
 	//'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP' => '你必須選擇同組中的記錄進行合併',
@@ -1926,7 +1927,7 @@ $jsLanguageStrings = array(
 	'JS_DISABLED' => '已停用',
 	'JS_ONLY_ALLOWED_USERS_ARE_ALLOWED_TO_DO_ACTION'=>'我們無法將會話標記為未讀/已讀/刪除/完成/私人/公開，因為會話與您無關',
 	'JS_SHARED_WITH'=>'共享給',
-	'JS_DEFAULT_DASHBOARD_TOOLTIP' => '將此儀表板重新排序為第一個標簽，將其設為默認值！',
+	'JS_DEFAULT_DASHBOARD_TOOLTIP' => '將此資訊主頁重新排序為第一個標簽，將其設為默認值！',
 	'JS_SET_DEFAULT_TAB' => '被設置為您的預設表板',
 	'JS_PASSWORD_MISMATCH_ERROR' => '請重新輸入密碼。 "新密碼"和"確認密碼"不相同。',
 	'LBL_LIST_DELETE_CONFIRMATION' => '您確定要刪除嗎？',
@@ -1937,5 +1938,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Vtiger 系統主體
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-13
+ * 更新日期: 2018-03-14
  *************************************************************************************/

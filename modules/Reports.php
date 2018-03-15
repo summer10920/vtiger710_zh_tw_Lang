@@ -206,7 +206,7 @@ $languageStrings = array(
 	'LBL_CHARTS' => '圖表',
     //Schedule Reports - Mail Content
     'LBL_AUTO_GENERATED_REPORT_EMAIL' => '這是一封根據排程報表所自動產生的電子郵件。',
-    'LBL_PIN_CHART_TO_DASHBOARD' => '固定圖表放入儀表板',
+    'LBL_PIN_CHART_TO_DASHBOARD' => '固定圖表放入資訊主頁',
     'LBL_FILE_FORMAT' => '檔案格式',
     
     'Report Type' => '報表類型',
@@ -230,17 +230,17 @@ $jsLanguageStrings = array(
 	'JS_DUPLICATE_RECORD' => '報表重複',
 	'JS_CALCULATION_LINE_ITEM_FIELDS_SELECTION_LIMITATION' => '限制：這些欄位（定價，折扣和數量）只能在其它計算欄位沒有選定時使用。',
 	'JS_NO_CHART_DATA_AVAILABLE' => '資料不可用，請檢查所選欄位',
-    'JS_CHART_PINNED_TO_DASHBOARD' => '已固定圖表放到儀表板',
-    'JS_CHART_ALREADY_PINNED_TO_DASHBOARD' => '已固定圖表放到儀表板',
+    'JS_CHART_PINNED_TO_DASHBOARD' => '已固定圖表放到資訊主頁',
+    'JS_CHART_ALREADY_PINNED_TO_DASHBOARD' => '已固定圖表放到資訊主頁',
 	'JS_MOVE_REPORTS'=>'移動報表',
     'JS_SCHEDULED_DATE_TIME_ERROR' => '排程日期時間應大於當前日期時間',
 	'JSLBL_PIN_CHART_TO_DASHBOARD' => '固定圖表到儀錶板',
-	'JSLBL_UNPIN_CHART_FROM_DASHBOARD' => '從儀表板中取消固定圖表',
-	'JS_CHART_REMOVED_FROM_DASHBOARD' => '從儀表板中已取消固定圖表',
+	'JSLBL_UNPIN_CHART_FROM_DASHBOARD' => '從資訊主頁中取消固定圖表',
+	'JS_CHART_REMOVED_FROM_DASHBOARD' => '從資訊主頁中已取消固定圖表',
 );
 /*+***********************************************************************************
  * 臺灣繁體中文語言包 - Reports 報表
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-05
+ * 更新日期: 2018-03-14
  *************************************************************************************/

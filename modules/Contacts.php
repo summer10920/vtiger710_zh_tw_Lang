@@ -33,23 +33,23 @@ $languageStrings = array(
 	'Do Not Call' => '拒絶電話打擾',
 	'Reference' => '僅供參考',
 	'Portal User' => '客戶入口網帳戶',
-	'Mailing Street' => '郵寄地址',
-	'Mailing City' => '鄉鎮市區',
-	'Mailing State' => '縣/市',
-	'Mailing Zip' => '郵遞區號',
-	'Mailing Country' => '國家',
-	'Mailing Po Box' => '郵政信箱',
-	'Other Street' => '其它地址',
-	'Other City' => '鄉鎮市區',
-	'Other State' => '縣/市',
-	'Other Zip' => '郵遞區號',
-	'Other Country' => '國家',
-	'Other Po Box' => '郵政信箱',
+	'Mailing Street' => '帳單地址',
+	'Mailing City' => '鄉鎮市區 (帳單)',
+	'Mailing State' => '縣/市 (帳單)',
+	'Mailing Zip' => '郵遞區號 (帳單)',
+	'Mailing Country' => '國家 (帳單)',
+	'Mailing Po Box' => '郵政信箱 (帳單)',
+	'Other Street' => '其他地址',
+	'Other City' => '鄉鎮市區 (其他)',
+	'Other State' => '縣/市 (其他)',
+	'Other Zip' => '郵遞區號 (其他)',
+	'Other Country' => '國家 (其他)',
+	'Other Po Box' => '郵政信箱 (其他)',
 	'Contact Image' => '聯絡人圖片',
 	'Other Phone' => '備用電話',
 	'Email' => '常用 E-mail',
 	'Secondary Email' => '備用 E-mail',
-	'Contact Id' => '聯絡人ID',
+	'Contact Id' => '聯絡人編號',
     'Support Start Date' => '服務開始日期',
     'Support End Date'   => '服務結束日期',
 	
@@ -70,5 +70,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Contacts 聯絡人
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-26
+ * 更新日期: 2018-03-14
  *************************************************************************************/

@@ -39,7 +39,7 @@ $languageStrings = array(
 	'Date Format' => '日期格式',
 	'Tag Cloud' => '標籤雲',
 	'Signature' => '簽名',
-	'Street Address' => '街道',
+	'Street Address' => '地址',
 	'Password' => '密碼',
 	'Confirm Password' => '確認密碼',
 	'LBL_SHOWN' => '顯示',
@@ -283,5 +283,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - User 用戶
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-05
+ * 更新日期: 2018-03-14
  *************************************************************************************/

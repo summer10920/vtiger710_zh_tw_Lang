@@ -17,19 +17,19 @@ $languageStrings = array(
 	'GRT' => '我的團隊分配',
 	'OLTSO' => '最近的銷售訂單',
 	'ILTI' => '最進的出貨單',
-	'HDB' => '首頁儀表板',
+	'HDB' => '首頁資訊主頁',
 	'OLTPO' => '最近的採購訂單',
 	'LTFAQ' => '我最近的常見問題集',
 	'UA' => '即將進行的活動',
 	'PA' => '待定的活動',
-    'Home'=> '儀表板',
+    'Home'=> '資訊主頁',
 	'LBL_SAVE_ORDER'=>'保存訂單',
-	'LBL_ADD_NEW_DASHBOARD'=>'新增儀表板',
-	'LBL_MAX_CHARACTERS_ALLOWED_DASHBOARD' => '儀表板命名只允許30個字元為上限。',
+	'LBL_ADD_NEW_DASHBOARD'=>'新增資訊主頁',
+	'LBL_MAX_CHARACTERS_ALLOWED_DASHBOARD' => '資訊主頁命名只允許30個字元為上限。',
 );
 /*+***********************************************************************************
  * 臺灣繁體中文語言包 - Home 首頁
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-02-27
+ * 更新日期: 2018-03-14
  *************************************************************************************/
