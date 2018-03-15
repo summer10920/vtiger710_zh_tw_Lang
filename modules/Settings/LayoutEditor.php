@@ -11,7 +11,7 @@ $languageStrings = array(
 	'LayoutEditor' => '佈局編輯',
 	'LBL_FIELDS_AND_LAYOUT_EDITOR' => '欄位和佈局編輯',
 	'LBL_CREATE_CUSTOM_FIELD' => '建立自訂欄位',
-	'LBL_DETAILVIEW_LAYOUT' => '詳細資訊顯示佈局',
+	'LBL_DETAILVIEW_LAYOUT' => '佈局與欄位細節',
 	'LBL_ARRANGE_RELATED_TABS' => '排列相關標籤',
 	'LBL_ADD_CUSTOM_FIELD' => '新增自訂欄位',
 	'LBL_ADD_CUSTOM_BLOCK' => '新增自訂區塊',
@@ -27,7 +27,7 @@ $languageStrings = array(
 	'LBL_ACTIVE' => '啟動',
 	'LBL_QUICK_CREATE' => '快速建立',
 	'LBL_SUMMARY_FIELD' => '摘要顯示',
-    'LBL_KEY_FIELD_VIEW' => '關鍵欄位',
+    'LBL_KEY_FIELD_VIEW' => '重點欄位',
 	'LBL_MASS_EDIT' => '批次編輯',
 	'LBL_DEFAULT_VALUE' => '預設值',
 	'LBL_SELECT_FIELD_TYPE' => '選擇欄位類型',
@@ -78,12 +78,12 @@ $languageStrings = array(
 	'SELECT_MODULE' => '選擇模組',
     
     //Related Lists 
-    'LBL_RELATION_SHIPS' => '關聯',
-    'LBL_ADD_RELATIONSHIP' => '增加關聯',
-    'LBL_RELATED_MODULE' => '關聯模組',
-    'LBL_ADDING_RELATIONSHIP' => '為 %s 增加關聯',
+    'LBL_RELATION_SHIPS' => '關聯性',
+    'LBL_ADD_RELATIONSHIP' => '增加關聯性',
+    'LBL_RELATED_MODULE' => '關聯性模組',
+    'LBL_ADDING_RELATIONSHIP' => '為 %s 增加關聯性',
     'LBL_SELECTED_RELATED_MODULE' => '選擇相關模組',
-    'LBL_SELECTED_RELATION_TYPE' => '選擇關聯類型',
+    'LBL_SELECTED_RELATION_TYPE' => '選擇關聯性類型',
     'ONE_ONE_AND_MANY_ONE_RELATIONSHIP' => '一對一 & 多對一關係',
     'ONE_MANY_RELATIONSHIP' => '一對多 & 多對多關係',
     '1-1' => '一對一',
@@ -98,12 +98,12 @@ $languageStrings = array(
 	'LBL_MANDATORY'                => '必填欄位', 
 	'LBL_PROPERTIES'               => '屬性', 
 	'LBL_DRAG_UI_TYPE'             => '拖曳欄位至此', 
-	'LBL_RELATION_FIELDS'          => '關聯欄位', 
+	'LBL_RELATION_FIELDS'          => '關聯性欄位', 
 	'LBL_SELECT_BLOCK'             => '選擇區塊', 
-    'LBL_RELATION_ADDED_SUCCESS'   => '添加關聯成功',
+    'LBL_RELATION_ADDED_SUCCESS'   => '添加關聯性成功',
     
-    'FIELD_NAME_IN_PRIMARY_MODULE' => '%s 的關聯欄位',
-    'FIELD_NAME_IN_RELATED_MODULE' => '%s 的關聯欄位',
+    'FIELD_NAME_IN_PRIMARY_MODULE' => '%s 的關聯性欄位',
+    'FIELD_NAME_IN_RELATED_MODULE' => '%s 的關聯性欄位',
     'TAB_IN_PRIMARY_MODULE'        => '%s 的表格/標簽',
     'TAB_IN_RELATED_MODULE'        => '%s 的表格/標簽',
     
@@ -124,7 +124,7 @@ $languageStrings = array(
 	'LBL_ENABLE_TO_MAP_SERVICE_FIELD' => '啟用映射服務欄位',
     
     //Vtiger7 Strings
-    'LBL_NO_RELATED_INFO' => '沒有關聯關係',
+    'LBL_NO_RELATED_INFO' => '沒有關聯性關係',
     'LBL_ADD_NEW_FIELD_HERE' => '增加新欄位',
     'LBL_SAVE_LAYOUT' => '儲存布局',
     'LBL_SHOW_FIELD' => '顯示欄位',
@@ -144,9 +144,9 @@ $languageStrings = array(
     'LBL_FIELD_NAME_TEXT' => '%s 的欄位名在 %s 記錄中',
 	'LBL_COLLAPSE_BLOCK' => '折疊區塊',
 	'LBL_COLLAPSE_BLOCK_DETAIL_VIEW' => '在細節當中預設折疊區塊',
-    'LBL_HEADER' => '標題欄位',
-    'LBL_DETAIL_HEADER' => '標題欄位',
-    'LBL_HEADER_FIELD' => '標題欄位',
+    'LBL_HEADER' => '標題摘要',
+    'LBL_DETAIL_HEADER' => '標題摘要',
+    'LBL_HEADER_FIELD' => '標題摘要',
 
 	'LBL_DUPLICATE_HANDLING' => '防止重複',
 	'LBL_DUPLICATE_CHECK' => '啟用重複檢查',
@@ -184,7 +184,7 @@ $jsLanguageStrings = array(
 	'JS_NOT_ALLOWED' => '不允許',
 	'JS_FIELD_SEQUENCE_UPDATED' => '欄位順序已更新',
 	'JS_DUPLICATES_VALUES_FOUND' => '發現重覆的值',
-    'JS_FIELD_IN_RELATED_MODULE'  => '%s 的關聯欄位',
+    'JS_FIELD_IN_RELATED_MODULE'  => '%s 的關聯性欄位',
     'JS_TAB_IN_RELATED_MODULE' => '%s 的表格/標簽',
     'JS_FILED_IN_RELATED_HELP_TEXT' => '%s 模組的參考欄位',
     'JS_TAB_IN_RELATED_HELP_TEXT'   => '%s 模組的表格/標簽',
@@ -207,7 +207,7 @@ $jsLanguageStrings = array(
     'JS_FIELD_NAME_TEXT' => '在 %s 記錄中的 %s 欄位名',
     'JS_PROP_MANDATORY' => '必填',
     'JS_SUMMARY' => '摘要',
-    'JS_KEY_FIELD' => '關鍵欄位',
+    'JS_KEY_FIELD' => '重點欄位',
     
     'JS_QUICK_CREATE' => '快速建立',
     'JS_MASS_EDIT' => '批次編輯',
@@ -217,10 +217,10 @@ $jsLanguageStrings = array(
                                                  您仍然確定要刪除此欄位嗎？',
     'JS_FIELD_DELETE_CONFIRMATION' => '刪除 - 我不再需要欄位中的數據。',
 	'JS_STATUS_CHANGED_SUCCESSFULLY' => '狀態更改成功',
-    'JS_FIELD_CAN_EITHER_BE_HEADER_OR_SUMMARY_ENABLED' => '該欄位只能單一設定為標題欄位或是關鍵欄位',
-    'JS_DETAIL_HEADER' => '標題欄位',
+    'JS_FIELD_CAN_EITHER_BE_HEADER_OR_SUMMARY_ENABLED' => '該欄位只能單一設定為標題摘要或是重點欄位',
+    'JS_DETAIL_HEADER' => '標題摘要',
     'JS_MAXIMUM_HEADER_FIELDS_ALLOWED' => '最多允許 %s 標題首項欄位',
-    'JS_NAME_FIELDS_APPEAR_IN_HEADER_BY_DEFAULT' => '預設情況下，此欄位已出現在標題欄位內',
+    'JS_NAME_FIELDS_APPEAR_IN_HEADER_BY_DEFAULT' => '預設情況下，此欄位已出現在標題摘要內',
     'JS_FIELD_IS_HEADER_ENABLED_FOR_VTIGER7' => '此欄位作為標題首項僅限於 vtiger 7 中啟用，它會出現在摘要視圖中',
 
 	'JS_DUPLICATE_HANDLING_SUCCESS_MESSAGE' => '預防重複性的選定欄位考量已更新成功',
@@ -231,5 +231,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - LayoutEditor 佈局編輯
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-13
+ * 更新日期: 2018-03-14
  *************************************************************************************/

@@ -81,7 +81,7 @@ $languageStrings = array(
 	'LBL_MAIL_MERGE_DESCRIPTION' => '管理郵件合併樣板',
 
 	'LBL_TAX_SETTINGS' => '稅率設定',
-	'LBL_TAX_DESCRIPTION' => '管理稅額和相應的稅率',
+	'LBL_TAX_DESCRIPTION' => '管理稅金和相應的稅率',
 
 	'LBL_MAIL_SERVER_SETTINGS' => '發送郵件伺服器',	
 	'LBL_MAIL_SERVER_DESCRIPTION' => '配置外發郵件伺服器的詳細資訊',
@@ -139,22 +139,22 @@ $languageStrings = array(
 	'LBL_TAX_CALCULATIONS' => '稅率設定',
 	'LBL_TAX_DESC'=>'管理不同類型的稅率，如營業稅，增值稅等..',
 	'LBL_PRODUCT_SERVICE_TAXES' => '產品&服務稅',	
-	'LBL_SHIPPING_HANDLING_TAXES' => '運費&手續費稅',
-	'LBL_ADD_NEW_TAX' => '增加新的稅額',
-	'LBL_EDIT_TAX' => '編輯稅額',
-	'LBL_TAX_NAME' =>  '稅額名稱',
+	'LBL_SHIPPING_HANDLING_TAXES' => '郵資包裝稅',
+	'LBL_ADD_NEW_TAX' => '增加新的稅金',
+	'LBL_EDIT_TAX' => '編輯稅金',
+	'LBL_TAX_NAME' =>  '稅金名稱',
 	'LBL_TAX_VALUE' => '稅值',
 	//'LBL_STATUS' => '狀態',
-	'LBL_TAX_STATUS_DESC' => '啟動勾選方塊稅額',
-	'LBL_ENTER_TAX_NAME' => '輸入稅額名稱',
+	'LBL_TAX_STATUS_DESC' => '啟動勾選方塊稅金',
+	'LBL_ENTER_TAX_NAME' => '輸入稅金名稱',
 	'LBL_ENTER_TAX_VALUE' => '輸入稅值',	
-	'LBL_TAX_NAME_EXIST' => '稅額名稱已存在',
-	'LBL_TAXES' => '稅額',
-	'LBL_CHARGES_AND ITS_TAXES' => '費用（及稅額）',
+	'LBL_TAX_NAME_EXIST' => '稅金名稱已存在',
+	'LBL_TAXES' => '稅金',
+	'LBL_CHARGES_AND ITS_TAXES' => '費用（及稅金）',
 	'LBL_TAX_REGIONS' => '稅區',
 	'LBL_NO_REGION_EXISTS' => '沒有區域',
 	'LBL_TYPE' => '類型',
-	'LBL_CALCULATION' => '計算',
+	'LBL_CALCULATION' => '計算方式',
 	'LBL_ADD_NEW_CHARGE' => '添加新費用',
 	'LBL_ADD_NEW_TAX_FOR_CHARGE' => '添加新的稅',
 	'LBL_CHARGE_NAME' => '費用名稱',
@@ -387,10 +387,10 @@ $languageStrings = array(
 $jsLanguageStrings = array(
 	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => '請從群組內選擇至少一個成員',
 	'JS_GROUP_DELETED_SUCCESSFULLY' => '群組刪除成功',
-	'JS_TAX_SAVED_SUCCESSFULLY' => '稅額儲存成功',
-	'JS_TAX_DISABLED' => '稅額停用',
-	'JS_TAX_ENABLED' => '稅額啟用',
-	'JS_SELECT_SIMPLE_TAXES' => '選擇簡易稅額',
+	'JS_TAX_SAVED_SUCCESSFULLY' => '稅金儲存成功',
+	'JS_TAX_DISABLED' => '稅金停用',
+	'JS_TAX_ENABLED' => '稅金啟用',
+	'JS_SELECT_SIMPLE_TAXES' => '選擇簡易稅金',
 	'JS_TAX_REGION_SAVED_SUCCESSFULLY' => '稅區儲存成功',
 	'JS_TAX_REGION_DELETED_SUCCESSFULLY' => '稅區刪除成功',
 	'JS_INVENTORY_CHARGE_SAVED_SUCCESSFULLY' => '庫存費儲存成功',
@@ -421,5 +421,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - Vtiger 配置
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-08
+ * 更新日期: 2018-03-14
  *************************************************************************************/
