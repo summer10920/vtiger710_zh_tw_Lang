@@ -13,7 +13,7 @@ $languageStrings = array(
 	'LBL_PICKLIST_DEPENDENCY' => '下拉選單依賴設定',
 	'LBL_SELECT_MODULE' => '模組',
 	'LBL_SOURCE_FIELD' => '來源欄位',
-	'LBL_TARGET_FIELD' => '目標欄位',,
+	'LBL_TARGET_FIELD' => '目標欄位',
 	'LBL_SELECT_FIELD' => '選擇欄位',
 	'LBL_CONFIGURE_DEPENDENCY_INFO' => '點擊相應的單元格改變下拉選單目標欄位的映射關係',
 	'LBL_CONFIGURE_DEPENDENCY_HELP_1' => '只映射下拉選單的來源欄位作為顯示（首次除外）',
@@ -40,5 +40,5 @@ $jsLanguageStrings = array(
  * 臺灣繁體中文語言包 - PickListDependency 下拉選單關聯性編輯
  * 版本: 7.1.0 
  * 作者: Loki Jiang | https://www.facebook.com/groups/vTigerCRMtoTaiwan/
- * 更新日期: 2018-03-07
+ * 更新日期: 2018-03-16
  *************************************************************************************/
